@@ -1,4 +1,4 @@
-# Extracción de Datos de Archivos Bancarios
+# Extracción de Datos de Resumen del Banco Hipotecario S.A.
 
 Este proyecto tiene como objetivo extraer y procesar datos de extractos bancarios en formato PDF. Utiliza librerías de Python como `tabula-py` para leer archivos PDF y `pandas` para manipular y procesar los datos extraídos.
 
